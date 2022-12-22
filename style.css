@@ -1,0 +1,46 @@
+/* layout */
+
+body{
+    font-size:15px;
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* colors */
+
+:root{
+--White: hsl(0, 0%, 100%);
+--Light-gray: hsl(212, 45%, 89%);
+--Grayish-blue: hsl(220, 15%, 55%);
+--Dark-blue: hsl(218, 44%, 22%);
+}
+
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+/* card component */
+
+
+
+
+
+
+
+.card-component{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 70%;
+    max-width: 600px;
+    border-radius: 1rem;
+}
