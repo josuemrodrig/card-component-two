@@ -67,7 +67,8 @@ h1{
 
 p{
     text-align: center;
-    flex-grow: .5;
+    flex-grow: .3;
+    color: gray;
 
 }
 
