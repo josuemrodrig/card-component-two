@@ -38,9 +38,11 @@ body{
 .card-component{
     display: flex;
     flex-direction: column;
+    justify-content:space-between;
     width: 84%;
     height: 74%;
-    max-width: 375px;
+    max-width: 300px;
+    max-height: 493.58px;
     border-radius: 1rem;
     background-color: var(--White);
     padding: 1em;
@@ -57,14 +59,15 @@ body{
 }
 
 h1{
-    height: 17.5%;
+  
     font-size: 1.3rem;
     text-align: center;
+   
 }
 
 p{
-    height: 17.5%;
     text-align: center;
+    flex-grow: .5;
 
 }
 
