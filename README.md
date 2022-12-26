@@ -18,19 +18,18 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-### The challenge
 
 ### Screenshot
 
-## In this section i include two screenshots, one for the mobile version and another for the computer
+ In this section i include two screenshots, one for the mobile version and another for the computer
+
+
 
 ![](./Screenshot-mobile.png). ![](./Screenshot-desktop.png).
 
 ### Links
 
--   Live Site URL: [my site]()
-
-<!-- need url -->
+-   Live Site URL: [https://josuemrodrig.github.io/card-component-two/]
 
 ## My process
 
