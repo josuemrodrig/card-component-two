@@ -38,36 +38,30 @@ body{
 .card-component{
     display: flex;
     flex-direction: column;
-    justify-content:space-between;
-    width: 84%;
-    height: 74%;
     max-width: 300px;
-    max-height: 493.58px;
     border-radius: 1rem;
     background-color: var(--White);
-    padding: 1em;
+    padding: 1.5em;
 }
 
-.card-component-conteiner-img{
-    height: 65%;
-}
+
 
 .card-component-img{
-    height: 100%;
     width: 100%;
     border-radius: 1rem;
 }
 
 h1{
   
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
    
 }
 
 p{
     text-align: center;
-    flex-grow: .3;
     color: gray;
 
 }
